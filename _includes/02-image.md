@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Whistler Village](https://cdn.whistler.com/s3/images/og/whistler-village-bc.jpg)
