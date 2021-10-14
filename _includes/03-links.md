@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+#   My LinkedIn Profile Direct Link
+[Eric Biggs LinkedIn](https://www.linkedin.com/in/eric-biggs/)
